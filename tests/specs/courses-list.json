@@ -1,0 +1,20 @@
+[
+  {
+    "name": "View Courses \u0026 Batches",
+    "steps": [
+      {
+        "expect": [
+          {
+            "method": "sendMessage",
+            "payload": {
+              "text": "Browse available courses and batch schedules"
+            }
+          }
+        ],
+        "send": {
+          "callback": "courses:list"
+        }
+      }
+    ]
+  }
+]
