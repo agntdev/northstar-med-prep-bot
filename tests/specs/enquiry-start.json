@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Enquire/Enroll",
+    "steps": [
+      {
+        "expect": [
+          {
+            "method": "sendMessage",
+            "payload": {
+              "text": "Submit enrollment inquiry with name/phone"
+            }
+          }
+        ],
+        "send": {
+          "callback": "enquiry:start"
+        }
+      }
+    ]
+  }
+]
