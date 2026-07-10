@@ -1,0 +1,20 @@
+[
+  {
+    "name": "FAQs",
+    "steps": [
+      {
+        "expect": [
+          {
+            "method": "sendMessage",
+            "payload": {
+              "text": "Access approved program questions and answers"
+            }
+          }
+        ],
+        "send": {
+          "callback": "faq:list"
+        }
+      }
+    ]
+  }
+]
