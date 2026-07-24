@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Send academic questions to instructors"
+              "text": "Student support opens after enrolment is verified. Tap I am Enrolled to request access."
             }
           }
         ],

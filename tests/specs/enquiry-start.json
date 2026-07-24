@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Submit enrollment inquiry with name/phone"
+              "text": "Enrolment is not set up yet. Please try again shortly."
             }
           }
         ],
