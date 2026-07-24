@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Answer questions to get batch recommendations"
+              "text": "What are you preparing for?"
             }
           }
         ],

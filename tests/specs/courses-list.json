@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Browse available courses and batch schedules"
+              "text": "Courses are being updated. Please check back shortly."
             }
           }
         ],
